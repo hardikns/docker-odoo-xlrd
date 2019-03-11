@@ -1,4 +1,4 @@
-ROM odoo:12.0
+FROM odoo:12.0
 MAINTAINER Hardik Shah <hardikns@gmail.com>
 
 USER root
